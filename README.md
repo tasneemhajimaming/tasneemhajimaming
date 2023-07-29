@@ -8,7 +8,7 @@ My name is tasneem Hajimaming
 I am a student
 --------------
 
-computer engineering Faculty of Engineering, Prince of Naradhiwas University
+computer engineering Faculty of Engineering, Prince of Naradhiwas University<br>
 I've been learning react native
 
 * 🌍  I'm based in Naradhiwas,Thailand
