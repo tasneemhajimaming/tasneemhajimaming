@@ -1,10 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is tasneem Hajimaming
 ==========================================================================================================================================
+---
 
+### :woman_technologist: About Me :
 I am a student
 --------------
 
-computer engineering Faculty of Engineering, Prince of Naradhiwas University I've been learning react native
+computer engineering Faculty of Engineering, Prince of Naradhiwas University
+I've been learning react native
 
 * 🌍  I'm based in Naradhiwas,Thailand
 
