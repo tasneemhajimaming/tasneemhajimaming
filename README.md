@@ -12,10 +12,9 @@ computer engineering Faculty of Engineering, Prince of Naradhiwas University<br>
 I've been learning react native
 
 * 🌍  I'm based in Naradhiwas,Thailand
-*  :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
- seedling: Exploring Technical Content Writing.
+*  :telescope: POSITION OF INTEREST: Website and application developers(front end)
 * :zap: In my free time, I like to learn new things and programming language.
-* :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+* :mailbox:tasnimhayimaming@gmail.com
 
 ---
 
