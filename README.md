@@ -9,7 +9,7 @@ I am a student
 --------------
 
 computer engineering Faculty of Engineering, Prince of Naradhiwas University<br>
-I've been learning react native
+I'm currently learning react native
 
 * 🌍  I'm based in Naradhiwas,Thailand
 *  :telescope: position of interest: Website and application developers(front end)
