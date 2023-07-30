@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 My name is tasneem Hajimaming
 <br>
-I am a student
+I am an undergraduate student.
 --------------
 
 computer engineering Faculty of Engineering, Prince of Naradhiwas University<br>
