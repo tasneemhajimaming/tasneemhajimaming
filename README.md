@@ -12,7 +12,7 @@ computer engineering Faculty of Engineering, Prince of Naradhiwas University<br>
 I've been learning react native
 
 * 🌍  I'm based in Naradhiwas,Thailand
-*  :telescope: POSITION OF INTEREST: Website and application developers(front end)
+*  :telescope: position of interest: Website and application developers(front end)
 * :zap: In my free time, I like to learn new things and programming language.
 * :mailbox:tasnimhayimaming@gmail.com
 
