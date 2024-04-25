@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 My name is tasneem Hajimaming
 <br>
-I am an undergraduate student.
+ความกระตือรือร้นของฉันที่จะเรียนรู้และพัฒนาทักษะในการพัฒนา Front End ยังคงสูงมาก ฉันเชื่อว่าฉันสามารถทำงานร่วมกับทีมและมุ่งเน้นในการเรียนรู้อย่างต่อเนื่องได้อย่างดี ฉันหวังว่าจะได้มีโอกาสที่จะใช้ความรู้และทักษะของฉันในการสร้างผลงานที่ยอดเยี่ยม
 --------------
 
 computer engineering Faculty of Engineering, Prince of Naradhiwas University<br>
